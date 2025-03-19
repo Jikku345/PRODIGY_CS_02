@@ -12,7 +12,6 @@ This project is a simple **Image Encryption Tool** using Python and the **Pillow
 
 ## **README.md**  
 
-```markdown
 # 🖼️ Image Encryption Tool
 
 This project is a simple **Image Encryption Tool** using Python and the **Pillow** library. It allows users to encrypt and decrypt images using pixel manipulation techniques.
@@ -56,7 +55,7 @@ python image_encryption.py
 ## 📸 Example
 | Encrypted Image | Decrypted Image |
 |----------------|----------------|
-| ![Encrypted](./examples/encrypted_image.png) | ![Decrypted](./examples/decrypted_image.png) |
+| ![Encrypted](./encrypted_image.png) | ![Decrypted](./decrypted_image.png) |
 
 ## ⚠️ Limitations
 - Large images may take longer to encrypt/decrypt.
